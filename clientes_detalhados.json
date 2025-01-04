@@ -1,0 +1,77 @@
+[
+    {
+        "Nome": "Carlos Silva",
+        "Endereço": "Rua das Flores, 123 - São Paulo, SP",
+        "E-mail": "carlos.silva@email.com"
+    },
+    {
+        "Nome": "Ana Pereira",
+        "Endereço": "Av. Paulista, 456 - São Paulo, SP",
+        "E-mail": "ana.pereira@email.com"
+    },
+    {
+        "Nome": "João Costa",
+        "Endereço": "Rua dos Lírios, 789 - Rio de Janeiro, RJ",
+        "E-mail": "joao.costa@email.com"
+    },
+    {
+        "Nome": "Mariana Almeida",
+        "Endereço": "Rua Bela Vista, 101 - Belo Horizonte, MG",
+        "E-mail": "mariana.almeida@email.com"
+    },
+    {
+        "Nome": "Lucas Oliveira",
+        "Endereço": "Av. Independência, 234 - Porto Alegre, RS",
+        "E-mail": "lucas.oliveira@email.com"
+    },
+    {
+        "Nome": "Fernanda Santos",
+        "Endereço": "Rua das Acácias, 345 - Curitiba, PR",
+        "E-mail": "fernanda.santos@email.com"
+    },
+    {
+        "Nome": "Pedro Carvalho",
+        "Endereço": "Av. Rio Branco, 678 - Recife, PE",
+        "E-mail": "pedro.carvalho@email.com"
+    },
+    {
+        "Nome": "Juliana Souza",
+        "Endereço": "Rua Aurora, 910 - Salvador, BA",
+        "E-mail": "juliana.souza@email.com"
+    },
+    {
+        "Nome": "Ricardo Mendes",
+        "Endereço": "Rua Sol Nascente, 112 - Fortaleza, CE",
+        "E-mail": "ricardo.mendes@email.com"
+    },
+    {
+        "Nome": "Camila Rocha",
+        "Endereço": "Av. Central, 314 - Manaus, AM",
+        "E-mail": "camila.rocha@email.com"
+    },
+    {
+        "Nome": "Renato Lima",
+        "Endereço": "Rua Harmonia, 516 - Goiânia, GO",
+        "E-mail": "renato.lima@email.com"
+    },
+    {
+        "Nome": "Bianca Azevedo",
+        "Endereço": "Av. Primavera, 718 - Florianópolis, SC",
+        "E-mail": "bianca.azevedo@email.com"
+    },
+    {
+        "Nome": "Felipe Nogueira",
+        "Endereço": "Rua das Palmeiras, 920 - Brasília, DF",
+        "E-mail": "felipe.nogueira@email.com"
+    },
+    {
+        "Nome": "André Matos",
+        "Endereço": "Av. das Américas, 1122 - Natal, RN",
+        "E-mail": "andre.matos@email.com"
+    },
+    {
+        "Nome": "Larissa Martins",
+        "Endereço": "Rua da Paz, 1345 - Vitória, ES",
+        "E-mail": "larissa.martins@email.com"
+    }
+]

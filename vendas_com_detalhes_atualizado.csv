@@ -1,0 +1,16 @@
+ID,Cliente,Produto,Valor,Data,Endereço,E-mail
+101,Carlos Silva,Notebook,3500.75,2024-01-01,"Rua das Flores, 123 - São Paulo, SP",carlos.silva@email.com
+102,Ana Pereira,Smartphone,2500.5,2024-01-02,"Av. Paulista, 456 - São Paulo, SP",ana.pereira@email.com
+103,João Costa,Monitor,899.99,2024-01-03,"Rua dos Lírios, 789 - Rio de Janeiro, RJ",joao.costa@email.com
+104,Mariana Almeida,Teclado Mecânico,450.0,2024-01-04,"Rua Bela Vista, 101 - Belo Horizonte, MG",mariana.almeida@email.com
+105,Lucas Oliveira,Mouse Gamer,299.9,2024-01-05,"Av. Independência, 234 - Porto Alegre, RS",lucas.oliveira@email.com
+106,Fernanda Santos,Cadeira Gamer,1299.99,2024-01-06,"Rua das Acácias, 345 - Curitiba, PR",fernanda.santos@email.com
+107,Pedro Carvalho,Headset,550.75,2024-01-07,"Av. Rio Branco, 678 - Recife, PE",pedro.carvalho@email.com
+108,Juliana Souza,Impressora,799.0,2024-01-08,"Rua Aurora, 910 - Salvador, BA",juliana.souza@email.com
+109,Ricardo Mendes,Tablet,1999.99,2024-01-09,"Rua Sol Nascente, 112 - Fortaleza, CE",ricardo.mendes@email.com
+110,Camila Rocha,HD Externo,650.25,2024-01-10,"Av. Central, 314 - Manaus, AM",camila.rocha@email.com
+111,Renato Lima,SSD,399.99,2024-01-11,"Rua Harmonia, 516 - Goiânia, GO",renato.lima@email.com
+112,Bianca Azevedo,Placa de Vídeo,3500.0,2024-01-12,"Av. Primavera, 718 - Florianópolis, SC",bianca.azevedo@email.com
+113,Felipe Nogueira,Fonte 750W,450.5,2024-01-13,"Rua das Palmeiras, 920 - Brasília, DF",felipe.nogueira@email.com
+114,André Matos,Memória RAM,320.0,2024-01-14,"Av. das Américas, 1122 - Natal, RN",andre.matos@email.com
+115,Larissa Martins,Processador,2800.0,2024-01-15,"Rua da Paz, 1345 - Vitória, ES",larissa.martins@email.com
